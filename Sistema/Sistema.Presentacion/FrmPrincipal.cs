@@ -294,5 +294,10 @@ namespace Sistema.Presentacion
             frm.MdiParent = this;
             frm.Show();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
